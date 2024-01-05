@@ -13,7 +13,9 @@ import Nexcentapp from './Components/Nexcentapp';
 function App() {
   return (
     <>
-    <Nexcent/>
+    <Home/> 
+    {/* Home page 12  */}
+
     </>
   );
 }
